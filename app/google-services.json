@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "554684664946",
+    "firebase_url": "https://trashbin-project-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "trashbin-project",
+    "storage_bucket": "trashbin-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554684664946:android:d21a301811b9fd9d19c6eb",
+        "android_client_info": {
+          "package_name": "com.app.trashbin_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlkwvW2TESliAbrrKiKxzthF2ax7oDTv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554684664946:android:29a875bb043d57d719c6eb",
+        "android_client_info": {
+          "package_name": "com.example.trashbinproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlkwvW2TESliAbrrKiKxzthF2ax7oDTv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
